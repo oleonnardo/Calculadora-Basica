@@ -1,0 +1,77 @@
+
+/* ==================================================
+
+	Autor: Leonardo Araujo Silva
+	Email: leonardo.araujornb@gmail.com
+	Instagram: @underlineleonardo
+
+  ===================================================*/
+
+  
+.calculadora{
+	width:40px;
+	height:40px;
+	background:#666;
+	color: #FFF;
+  	font-family: "Comic Sans MS", cursive;
+ 	 cursor: pointer;
+ 	 -webkit-user-select: none;
+  	   -moz-user-select: none;
+  	    -ms-user-select: none;
+  	     -o-user-select: none;
+   	       user-select: none;
+ 	 background: rgb(255,102,0))transparent;
+ 	 background: rgba(255,102,0,0.5);
+ 	 color:#FFF;
+ 	 border: 1px solid transparent;
+ 	 border-radius: 4px;
+}
+
+.visor {
+	font-size:1.5em;
+	display: block;
+	height: auto;
+	font-family: "Comic Sans MS", cursive;
+	padding: 6px 12px;
+	font-size: 18px;
+	line-height: 1.428571429;
+	color: #F00;
+	background-color: #fff;
+	background-image: none;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+	 		box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+	-webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+			transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+
+}
+
+.calc{
+	border-bottom-left-radius: 30px;
+	border-bottom-right-radius: 30px;
+ 	background: rgb(255,102,0))transparent;
+ 	background: rgba(255,102,0,0.4);
+	margin-left:300px;
+	margin-right:300px;
+}
+
+.coreset {
+  
+  	width:90px;
+	height:40px;
+	background:#666;
+	color: #FFF;
+  	font-family: "Comic Sans MS", cursive;
+ 	 cursor: pointer;
+ 	 -webkit-user-select: none;
+  	   -moz-user-select: none;
+  	    -ms-user-select: none;
+  	     -o-user-select: none;
+   	       user-select: none;
+ 	 background: rgb(255,102,0))transparent;
+ 	 background: rgba(255,102,0,0.5);
+ 	 color:#FFF;
+ 	 border: 1px solid transparent;
+ 	 border-radius: 4px;
+}
