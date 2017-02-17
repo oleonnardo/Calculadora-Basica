@@ -3,8 +3,7 @@
 
 	Autor: Leonardo Araujo Silva
 	Email: leonardo.araujornb@gmail.com
-	Instagram: @underlineleonardo
-
+	
   ===================================================*/
 
  
